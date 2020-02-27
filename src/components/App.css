@@ -1,0 +1,44 @@
+.div-body {
+    background-color:#ecf0f3;
+    font-family:Artifakt Element,sans-serif;
+}
+
+.div-header {
+    background-image:url(//developer.static.autodesk.com/forgeunified/releases/current/1.0.0.20200109065713/images/title_banner_v2.jpg);
+    background-position:100%;
+    background-size:cover;
+    background-repeat:no-repeat
+}
+
+.div-h1tag{
+    color: white;
+    text-transform: uppercase;
+    padding-top:24px;
+    padding-bottom:24px;
+    font-Size:21px
+}
+
+
+.div-title{
+    font-family:Artifakt Element,sans-serif;
+    padding-top:40px;
+    padding-bottom:40px
+}
+
+.h2-title{
+    font-size:21px;
+}
+
+.cardhover:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.cardfooter:hover{
+    text-decoration: none;
+    color:#393939;
+    font-weight:700;
+}
+
+nav{
+    display:flex;
+}
